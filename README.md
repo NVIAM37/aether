@@ -128,4 +128,4 @@ This project (AETHER V2) is the advanced evolution of the original _Real-Time Tr
 - **Original Concept**: Real-Time Tracker V1
 - **V2 enhancements**: Aether Intelligence, Offline Buffer, UI Overhaul.
 
-**Maintained by:** NVIAM (Network of Vivids Inference And Minds)
+**Maintained by:** NVIAM

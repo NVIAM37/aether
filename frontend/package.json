@@ -4,6 +4,7 @@
   "version": "1.0.0",
   "type": "module",
   "description": "Real-time location tracking frontend with React and Leaflet",
+  "license": "GPL-3.0",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",

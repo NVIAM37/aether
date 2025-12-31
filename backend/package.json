@@ -19,7 +19,7 @@
     "geolocation"
   ],
   "author": "Your Name",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.22.1",
